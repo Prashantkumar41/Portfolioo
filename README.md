@@ -1,8 +1,36 @@
-# React + Vite
+# Portfolio Project - Prashant Kumar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website showcasing my skills, projects, and experiences as a full-stack developer.
 
-Currently, two official plugins are available:
+## Features
+- **Projects Showcase** – Displays my best projects with descriptions and live links.
+- **About Me** – Highlights my background, skills, and certifications.
+- **Contact Section** – Allows visitors to reach out via email or social media.
+- **Responsive Design** – Optimized for all devices using modern UI frameworks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React + Vite for fast and optimized frontend development.
+- Tailwind CSS for styling and responsiveness.
+- Framer Motion for smooth animations.
+- React Router for navigation.
+
+## Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/portfolio.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd portfolio
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm run dev
+   ```
+
+
+**Prashant Kumar**
