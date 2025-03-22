@@ -8,7 +8,7 @@ const projects = [
     {
       img: FutureAI,
       title: "Project #1",
-      description: "Real time crypto price tracker .By using React,Framer-Motion and using coingecko public-API.",
+      description: "Real time Trend analysis and Helps users build resumes, prepare for interviews and track industry trends with personalized insights.",
       links: {
         site: "https://future-ai-prhd.vercel.app/",
         github: "https://github.com/Prashantkumar41/AI-Powered-by-FutureAI",
