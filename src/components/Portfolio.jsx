@@ -1,7 +1,7 @@
 import React from 'react';
 import FutureAI from "../assets/FutureAI.jpg";
 import portfolio from "../assets/portfolio.jpg"
-import JobPortal from "../assets/jobPortal.png"
+import JobPortal from "../assets/jobportal.jpg"
 import { AiFillGithub, AiOutlineGithub } from 'react-icons/ai'
 import Reveal from './Reveal';
 
