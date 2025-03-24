@@ -1,6 +1,7 @@
 import React from 'react';
 import FutureAI from "../assets/FutureAI.jpg";
 import portfolio from "../assets/portfolio.jpg"
+import JobPortal from "../assets/jobPortal.png"
 import { AiFillGithub, AiOutlineGithub } from 'react-icons/ai'
 import Reveal from './Reveal';
 
@@ -24,7 +25,7 @@ const projects = [
       },
     },
     {
-      img: Job-Portal,
+      img: JobPortal,
       title: "Project #3",
       description: "This is job-portal project.in this project i had used React, Clerk , Supabase and Tailwind",
       links: {
