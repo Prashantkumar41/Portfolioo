@@ -23,6 +23,15 @@ const projects = [
         github: "https://github.com/Prashantkumar41/Portfolioo",
       },
     },
+    {
+      img: Job-Portal,
+      title: "Project #3",
+      description: "This is job-portal project.in this project i had used React, Clerk , Supabase and Tailwind",
+      links: {
+        site: "https://job-portal-wheat-phi.vercel.app/",
+        github: "https://github.com/Prashantkumar41/Jobs-portal",
+      },
+    },
    
   ]
 
