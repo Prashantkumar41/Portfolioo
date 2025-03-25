@@ -2,6 +2,7 @@ import React from 'react';
 import FutureAI from "../assets/FutureAI.jpg";
 import portfolio from "../assets/portfolio.jpg"
 import JobPortal from "../assets/jobportal.jpg"
+import RandomMemsGenerator from "../assets/RandomMemsGenerator.jpg"
 import { AiFillGithub, AiOutlineGithub } from 'react-icons/ai'
 import Reveal from './Reveal';
 
@@ -31,6 +32,15 @@ const projects = [
       links: {
         site: "https://job-portal-wheat-phi.vercel.app/",
         github: "https://github.com/Prashantkumar41/Jobs-portal",
+      },
+    },
+    {
+      img: RandomMemsGenerator,
+      title: "Project #4",
+      description: "A React app that generates memes based on random name searches, showcasing dynamic content rendering and API integration.",
+      links: {
+        site: "https://reactmemebuilder.vercel.app/",
+        github: "https://github.com/Prashantkumar41/Random-Mems",
       },
     },
    
